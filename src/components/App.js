@@ -9,7 +9,7 @@ import {
 import Greeting from './Greeting';
 
 const router = createBrowserRouter(
-  createRoutesFromElements(<Route path="/" element={<Greeting />} />)
+  createRoutesFromElements(<Route path="/" element={<Greeting />} />),
 );
 
 const App = () => (
