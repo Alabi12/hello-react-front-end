@@ -74,8 +74,6 @@ Clone this repository to your desired folder:
    https://github.com/Alabi12/hello-rails-back-end.git
 ```
 
-## Link to Hello_React_Front_End (http://127.0.0.1:5000/api/greetings)
-
 ### Install
 
 Install this project with:
