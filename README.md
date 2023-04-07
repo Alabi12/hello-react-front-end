@@ -6,7 +6,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -101,16 +100,6 @@ To run the project, execute the following command:
 You can deploy this project using:
 
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-### Live demo
-
-Not yet
-
-### Video presentation
-
-Not yet
 
 ## 👥 Author <a name="authors"></a>
 
